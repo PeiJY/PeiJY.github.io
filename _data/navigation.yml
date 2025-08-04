@@ -14,14 +14,19 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "About LOG"
-    url: /LOG/ 
+
+  - title: "Research"
+    url: /research/ 
 
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Service"
-    url: /service/       
+    url: /service/   
+
+  - title: "About LOG"
+    url: /LOG/ 
+   
     
   # - title: "Portfolio"
   #   url: /portfolio/
