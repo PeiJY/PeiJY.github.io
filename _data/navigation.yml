@@ -14,9 +14,6 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "About Me"
-    url: /about/ 
-
   - title: "About LOG"
     url: /LOG/ 
 
