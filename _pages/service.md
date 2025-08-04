@@ -34,24 +34,24 @@ redirect_from:
 
 ### Competition Program Committee
 
-* Advisory board of the MARLO Competition organised by Microsoft Research and QMUL.
-* Advisory board of the Generative Design in Minecraft Competition.
+* Advisory board of the [MARLO Competition](https://github.com/Microsoft/malmo) organised by Microsoft Research and QMUL.
+* Advisory board of the [Generative Design in Minecraft Competition](http://gendesignmc.engineering.nyu.edu/).
 
 ## Organisation Committee
 
 
 * Program Co-Chair of the 2022 IEEE Conference on Games (IEEE CoG2022).
-* Co-Chair of the AI for Game-playing Track at the 2021 IEEE Conference on Games (IEEE CoG2021).
-* Co-organiser of the 12th Workshop on Procedural Content Generation.
-* Publicity Co-Chair at the 2021 IEEE Congress on Evolutionary Computation (IEEE CEC2021).
+* Co-Chair of the AI for Game-playing Track at the [2021 IEEE Conference on Games (IEEE CoG2021)](https://ieee-cog.org/).
+* Co-organiser of the [12th Workshop on Procedural Content Generation](http://pcgworkshop.com/).
+* Publicity Co-Chair at the [2021 IEEE Congress on Evolutionary Computation (IEEE CEC2021)](https://cec2021.mini.pw.edu.pl/).
 * Tutorial & Keynote Co-Chair at the 2020 IEEE Conference on Games (IEEE CoG2020).
 * Competition Co-Chair at the 2020 IEEE World Congress on Computational Intelligence (IEEE WCCI2020).
-* Co-organiser of the Dagstuhl Seminar 19511: Artificial and Computational Intelligence in Games: Revolutions in Computational Game AI, with Tom * Schaul (Google DeepMind - London, GB), Pieter Spronck (Tilburg University, NL), Julian Togelius (New York University, US).
+* Co-organiser of the [Dagstuhl Seminar 19511: Artificial and Computational Intelligence in Games: Revolutions in Computational Game AI](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19511), with Tom * Schaul (Google DeepMind - London, GB), Pieter Spronck (Tilburg University, NL), Julian Togelius (New York University, US).
 * Competition Chair at the 2019 IEEE Congress on Evolutionary Computation (IEEE CEC2019).
 * Competition Chair at the 2019 Foundations of Digital Games (FDG19).
 * Program Co-Chair of the 2018 IEEE Conference on Computational Intelligence and Games (IEEE CIG2018).
 * Co-Chair of the Special Session on Games at the IEEE WCCI/CEC since 2017.
-* Organiser of the GVGAI Learning Competition.
+* Organiser of the [GVGAI Learning Competition](http://www.aingames.cn/gvgai/ppsn_cog2020).
 * Co-organiser of the Workshop on Open Power Systems in Paris, France (2015).
 * Co-organiser of Indema2015's one-week academy, research and industry meetings, (collaboration between INRIA and NSC) in Lyon, France (2015).
 
