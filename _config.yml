@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About Me"
+title                    : "Jialin Liu"
 title_separator          : "-"
 name                     : &name "Jialin Liu"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   name             : "Jialin Liu"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
-  location         : " Hong Kong SAR, China"
+  location         : "Hong Kong SAR, China"
   employer         : "Lingnan University"
   uri              : # URL
   email            : "jialin.liu(at)ln.edu.hk" 
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
