@@ -20,11 +20,9 @@ main:
   - title: "About LOG"
     url: /LOG/ 
 
-    
   - title: "Teaching"
     url: /teaching/    
 
-    
   - title: "Service"
     url: /service/       
     
