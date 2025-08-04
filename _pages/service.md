@@ -7,8 +7,8 @@ redirect_from:
   - /service.html
 ---
 
-Editorial and review
-=====
+## Editorial and review
+
 
 ### Editorial Board
 
@@ -37,8 +37,8 @@ Editorial and review
 * Advisory board of the MARLO Competition organised by Microsoft Research and QMUL.
 * Advisory board of the Generative Design in Minecraft Competition.
 
-Organisation Committee
-=====
+## Organisation Committee
+
 
 * Program Co-Chair of the 2022 IEEE Conference on Games (IEEE CoG2022).
 * Co-Chair of the AI for Game-playing Track at the 2021 IEEE Conference on Games (IEEE CoG2021).
@@ -55,8 +55,8 @@ Organisation Committee
 * Co-organiser of the Workshop on Open Power Systems in Paris, France (2015).
 * Co-organiser of Indema2015's one-week academy, research and industry meetings, (collaboration between INRIA and NSC) in Lyon, France (2015).
 
-Roles in IEEE Computational Intelligence Society (IEEE CIS)
-=====
+## Roles in IEEE Computational Intelligence Society (IEEE CIS)
+
 
 * Since 2020: Chair of the Games Technical Committee.
 * Since 2021: Chair of the Students Activities Sub-Committee.
@@ -68,8 +68,8 @@ Roles in IEEE Computational Intelligence Society (IEEE CIS)
 * Since 2017: Council member of the Webinars Sub-Committee.
 * Since 2015: Council member of the Women in Computational Intelligence Sub-Committee.
 
-Other
-=====
+## Other
+
 
 * 2016-2017: Athena SWAN team member at CSEE, University of Essex, UK.
 * 2010-2016: Council member of AAHUSTF (Alumni Association of Huazhong University of Science and Technology in France).
