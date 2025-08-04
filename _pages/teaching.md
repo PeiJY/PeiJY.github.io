@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 In Chinese & English
+=====
 
 2020-2021 (TD/TP) Evolutionary Computation and Applications, MSc programme, Southern University of Science and Technology, China.
 
@@ -18,6 +19,7 @@ In Chinese & English
 2018-2019 (TD/TP) Advanced Artificial Intelligence, MSc programme, Southern University of Science and Technology, China.
 
 In English
+=====
 
 2016-2017 AI Informed Game Design, IGGI’s PhD programme, University of Essex, UK. (Two-week full day courses)
 
@@ -28,6 +30,7 @@ Student's project: Futuristic Alarm v2.0 by Mr. Giorgos Neokleous [available on 
 2015-2016 AI Informed Game Design, IGGI’s PhD programme, University of Essex, UK. (Two-week full day courses)
 
 In French
+=====
 
 2014-2015 (TD/TP) Operational Research, 1st-year of Master in Computer Science, Université Paris-Sud, France.
 
