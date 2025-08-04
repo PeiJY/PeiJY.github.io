@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I'm currently an Associate Professor at the School of Data Science (SDS) of the Lingnan University, Hong Kong SAR, China. Between 2018 and 2024, I worked as a Research Assistant Professor, Research Associate Professor and Tenure-Track Assistant Professor at the Department of Computer Science and Engineering (CSE) of the Southern University of Science and Technology (SUSTech), China. Before joining SUSTech, I was a Postdoctoral Research Associate at Queen Mary University of London (QMUL, UK) and University of Essec (UoE), UK. I received my Ph.D. Degree in Computer Science from the Inria Saclay and the Université Paris-Saclay (France) in December 2015, a Master degree in Bioinformatics and Biostatistics from the École Polytechnique and the Université Paris-Sud (France) in 2013, and BSc in 2010 from Huazhong University of Science and Technology (China). My research interests include, but not limited to, AI in Games (AI for playing games, AI for designing games, particularly procedural content generation), fair machine learning, optimisation under uncertainty (derivation-free optimisation, dynamic resampling strategies, algorithm portfolio), evolutionary computation and its applications.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Check my publications on [Google Scholar](https://goo.gl/8thhcO).
+
+My Erdös Number is 4, through Sylvie Ruette, Bernard Host and Vitaly Bergelson.
 
 A data-driven personal website
 ======
