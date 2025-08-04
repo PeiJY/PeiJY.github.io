@@ -9,7 +9,12 @@ redirect_from:
 
 ## Research Interests
 
-My research interests include, but not limited to: Evolutionary Computation, Noisy Optimisation (derivation-free algorithms, dynamic resampling strategies), Game AI (AI for playing games, AI for designing games), and Algorithm Portfolio methods.
+My research interests include, but not limited to
+
+* Evolutionary Computation
+* Noisy Optimisation (derivation-free algorithms, dynamic resampling strategies)
+* Game AI (AI for playing games, AI for designing games)
+* Algorithm Portfolio methods.
 
 ## Peer-reviewed Publications
 
