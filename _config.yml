@@ -22,7 +22,7 @@ repository               : "PeiJY/PeiJY.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/jialin.jpeg"
+  avatar           : "jialin.png"
   name             : "Jialin Liu"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor at the School of Data Science (SDS)"
@@ -88,7 +88,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   : "jialin.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
