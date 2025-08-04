@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "pjy.jpg"
   name             : "Jiyuan Pei"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "PhD candidate in Computer Science"
   location         : "Wellington, New Zealand"
   employer         : "Victoria University of Wellington"
@@ -121,7 +121,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 

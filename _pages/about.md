@@ -33,4 +33,4 @@ I'm currently a PhD candidate in Computer Science, Victoria University of Wellin
 * **J. Pei**, C. Hu, J. Liu, Y. Mei and X. Yao, “Bi-Objective Splitting Delivery VRP with Loading Constraints and Restricted Access,” in IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, pp. 01-09, 2021. [[Paper]](https://doi.org/10.1109/SSCI50451.2021.9659967)
 
 
-**More can be found in** [Google Scholar](https://scholar.google.com/citations?user=WyBHVhYAAAAJ)
+**More can be found in** [Google Scholar](https://scholar.google.com/citations?user=WyBHVhYAAAAJ).
