@@ -56,7 +56,7 @@ Not updated since 2023. Please check [Google Scholar](https://scholar.google.com
 
 1. Jialin Liu, Antoine Moreau, Mike Preuss, Jeremy Rapin, Baptiste Roziere, Fabien Teytaud, Olivier Teytaud, ``Versatile Black-Box Optimization,'' Proceedings of the 2020 Genetic and Evolutionary Computation Conference (GECCO 2020), Association for Computing Machinery, New York, NY, USA, 620–628. DOI:https://doi.org/10.1145/3377930.3389838. (EI) (♦)
 
-J1. acob Schrum, Jake Gutierrez, Vanessa Volz, Jialin Liu, Simon Lucas, Sebastian Risi, ``Interactive Evolution and Exploration Within Latent Level-Design Space of Generative Adversarial Networks,'' Proceedings of the 2020 Genetic and Evolutionary Computation Conference (GECCO 2020), Association for Computing Machinery, New York, NY, USA, 148–156, DOI:https://doi.org/10.1145/3377930.3389821. (EI) 
+1. J1. acob Schrum, Jake Gutierrez, Vanessa Volz, Jialin Liu, Simon Lucas, Sebastian Risi, ``Interactive Evolution and Exploration Within Latent Level-Design Space of Generative Adversarial Networks,'' Proceedings of the 2020 Genetic and Evolutionary Computation Conference (GECCO 2020), Association for Computing Machinery, New York, NY, USA, 148–156, DOI:https://doi.org/10.1145/3377930.3389821. (EI) 
 
 1. Han Zhang, Jialin Liu, Xin Yao, ``A Hybrid Evolutionary Algorithm for Reliable Facility Location Problem,'' Proceedings of the Sixteenth International Conference on Parallel Problem Solving from Nature (PPSN XVI), LNCS 12270, pp. 454–467, 2020. (EI) 
 
@@ -168,7 +168,10 @@ Technical Reports and Book
 ### PhD student
 
 * Ivan Bravi (4th year, Queen Mary University of London, UK), co-supervised with Prof. Simon M. Lucas and Dr. Diego Perez-Liebana
-Master students
+
+
+### Master students
+
 * Siyu Chen (will start in Sept 2022)
 * Ziqi Wang (started in Sept 2021)
 * Chengpeng Hu, co-supervised with Prof. Xin Yao (started in Sept 2021)
