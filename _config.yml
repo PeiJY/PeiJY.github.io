@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jialin.jpeg"
+  avatar           : "images/jialin.jpeg"
   name             : "Jialin Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor"
+  bio              : "Associate Professor at the School of Data Science (SDS)"
   location         : "Hong Kong SAR, China"
   employer         : "Lingnan University"
   uri              : # URL
