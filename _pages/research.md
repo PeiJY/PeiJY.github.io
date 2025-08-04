@@ -1,9 +1,9 @@
 ---
-permalink: /pb
+permalink: /research
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /research/
+  - /rs/
   - /research.html
 ---
 
@@ -11,9 +11,7 @@ redirect_from:
 
 My research interests include, but not limited to: Evolutionary Computation, Noisy Optimisation (derivation-free algorithms, dynamic resampling strategies), Game AI (AI for playing games, AI for designing games), and Algorithm Portfolio methods.
 
-## Publications
-
-### Peer-reviewed Publications
+## Peer-reviewed Publications
 
 You can also check my publications on [Google Scholar](https://scholar.google.com/citations?user=xhytgbIAAAAJ).
 
@@ -153,7 +151,7 @@ Technical Reports and Book
 
 1. Jialin Liu, Tom Schaul, Pieter Spronck and Julian Togelius, ``Artificial and Computational Intelligence in Games: Revolutions in Computational Game AI (Dagstuhl Seminar 19511)'', Dagstuhl Reports, Volume 9, Issue 12. [Full report]
 
-Vanessa Volz, Dan Ashlock, Simon Colton, Steve Dahlskog, Jialin Liu, Simon M. Lucas, Diego Perez Liebana and Tommy Thompson, ``4.18 Gameplay Evaluation Measures,'' Report of Dagstuhl Seminar Artificial and Computational Intelligence in Games: AI-Driven Game Design, Volume 7, Issue 11, pp. 105-107, 2018. [Full report]
+1. Vanessa Volz, Dan Ashlock, Simon Colton, Steve Dahlskog, Jialin Liu, Simon M. Lucas, Diego Perez Liebana and Tommy Thompson, ``4.18 Gameplay Evaluation Measures,'' Report of Dagstuhl Seminar Artificial and Computational Intelligence in Games: AI-Driven Game Design, Volume 7, Issue 11, pp. 105-107, 2018. [Full report]
 
 1. Dan Ashlock, Cameron Browne, Simon Colton, Amy K Hoover, Jialin Liu, Simon M Lucas, Mark J Nelson, Diego Perez Liebana, Sebastian Risi, Jacob Schrum, Adam M Smith, Julian Togelius and Vanessa Volz, ``4.1 Game Search Space Design and Representation,'' Report of Dagstuhl Seminar Artificial and Computational Intelligence in Games: AI-Driven Game Design, Volume 7, Issue 11, pp. 93-95, 2018. [Full report]
 
@@ -166,7 +164,6 @@ Vanessa Volz, Dan Ashlock, Simon Colton, Steve Dahlskog, Jialin Liu, Simon M. Lu
 
 * Ivan Bravi (4th year, Queen Mary University of London, UK), co-supervised with Prof. Simon M. Lucas and Dr. Diego Perez-Liebana
 Master students
-
 * Siyu Chen (will start in Sept 2022)
 * Ziqi Wang (started in Sept 2021)
 * Chengpeng Hu, co-supervised with Prof. Xin Yao (started in Sept 2021)
@@ -190,7 +187,6 @@ Master students
 * Chenhao Li (graduated in 2020; currently at Huawei)
 * Peijun Ruan (graduated in 2020; currently at Shopee)
 * Visiting students
-
 * Hao Tong (PhD student at University of Birmingham)
 * Kongming Cao (Undergraduate student from Rensselaer Polytechnic Institute, USA): Oct-Dec, 2021
 * Yishuang Wang (Master student from University of Nottingham, UK): Jul-Aug, 2020
