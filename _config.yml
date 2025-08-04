@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jialin Liu"
+title                    : "Jiyuan Pei"
 title_separator          : "-"
-name                     : &name "Jialin Liu"
-description              : &description "personal description"
+name                     : &name "Jiyuan Pei"
+description              : &description "Personal description"
 url                      : https://PeiJY.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PeiJY/PeiJY.github.io"
@@ -22,22 +22,22 @@ repository               : "PeiJY/PeiJY.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jialin.png"
-  name             : "Jialin Liu"
+  avatar           : "pjy.jpg"
+  name             : "Jiyuan Pei"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor at the School of Data Science (SDS)"
-  location         : "Hong Kong SAR, China"
-  employer         : "Lingnan University"
+  bio              : "PhD candidate in Computer Science"
+  location         : "Wellington, New Zealand"
+  employer         : "Victoria University of Wellington"
   uri              : # URL
-  email            : "jialin.liu(at)ln.edu.hk" 
+  email            : "jiyuan.pei(at)vuw.ac.nz" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=xhytgbIAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=WyBHVhYAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-7047-8454"
+  orcid            : "https://orcid.org/0000-0001-9860-5160/"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ljialin"
+  github           : "PeiJY"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

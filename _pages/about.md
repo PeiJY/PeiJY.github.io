@@ -7,30 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an Associate Professor at the School of Data Science (SDS) of the Lingnan University, Hong Kong SAR, China. Between 2018 and 2024, I worked as a Research Assistant Professor, Research Associate Professor and Tenure-Track Assistant Professor at the Department of Computer Science and Engineering (CSE) of the Southern University of Science and Technology (SUSTech), China. Before joining SUSTech, I was a Postdoctoral Research Associate at Queen Mary University of London (QMUL, UK) and University of Essec (UoE), UK. I received my Ph.D. Degree in Computer Science from the Inria Saclay and the Université Paris-Saclay (France) in December 2015, a Master degree in Bioinformatics and Biostatistics from the École Polytechnique and the Université Paris-Sud (France) in 2013, and BSc in 2010 from Huazhong University of Science and Technology (China). My research interests include, but not limited to, AI in Games (AI for playing games, AI for designing games, particularly procedural content generation), fair machine learning, optimisation under uncertainty (derivation-free optimisation, dynamic resampling strategies, algorithm portfolio), evolutionary computation and its applications.
+I'm currently a PhD candidate in Computer Science, Victoria University of Wellington, Wellingtonm, New Zealand. I received my Master degree in Computer Science and Technology in 2023, and Bachelor in Computer Science and Technology in 2020 from Southern University of Science and Technology (SUSTech), Shenzhen, China. 
 
-Check my publications on [Google Scholar](https://goo.gl/8thhcO).
 
-My Erdös Number is 4, through Sylvie Ruette, Bernard Host and Vitaly Bergelson.
+### Research Interests
 
-Join Us
-======
-We have multiple positions available at the levels of Postdoctoral Fellows, PhD students, MPhil, and visiting scholars (for a period of at least 6 months) at Lingnan University (Hong Kong SAR) in the following areas:
+* Adaptive Operator Selection
+* Vehicle Scheduling 
+* Combinatorial Optimisation
+* Evolutionary Computation
+* Lifelong Learning
 
-Game AI, particularly procedural content generation and reinforcement learning (with several industrial partners)
-AI ethics
-Intelligent scheduling
-If you are interested in doing a **PhD** with me at Lingnan University (Hong Kong SAR), there are three options:
+### Publications
 
-* applying for [Hong Kong PhD Fellowship Scheme 2026](https://www.ln.edu.hk/rpg/admission/application-for-admission);
-* one fully funded scholarship is available for admission in January or September 2026;
-* self-funded PhD for admission in September 2026.
+* **J. Pei**, Y. Mei, J. Liu, and M. Zhang, "LiBOG: Lifelong Learning for Black-Box Optimizer Generation", accepted at 34th International Joint Conference on Artificial Intelligence (IJCAI) 2025. [[Paper]](https://arxiv.org/abs/2505.13025) [[Code]](https://github.com/PeiJY/LiBOG)
 
-Self-funded **MPhil** for direct admission in September 2026 is another option.
+* **J. Pei**, Y. Mei, J. Liu, M. Zhang and X. Yao, "Adaptive Operator Selection for Meta-Heuristics: A Survey", IEEE Transactions on Artificial Intelligence (TAI), 2025. DOI: 10.1109/TAI.2025.3545792. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10904096)
 
-\* According to Lingnan's academic regulations, at least one co-supervisor in addition to a chief supervisor should be appointed for a PhD student. The co-supervisor would be Prof. [Xin Yao](https://www.ln.edu.hk/po/people/professor-xin-yao).
+* **J. Pei**, Y. Mei, J. Liu "Learning from Offline and Online Experiences: A Hybrid Adaptive Operator Selection Framework," in Proceedings of the Genetic and Evolutionary Computation Conference (GECCO), ACM, pp. 1017-1025, 2024. (The only one Best Paper Award nomination in L4EC track) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3638529.3654062)
 
-\* If you are interested in working on AI in games, please take a look at our survey ``[Deep Learning for Procedural Content Generation](https://link.springer.com/article/10.1007/s00521-020-05383-8)'' and the [Game AI book](http://gameaibook.org/) before contacting me. 
+* **J. Pei**, H. Tong, J. Liu, Y. Mei, and X. Yao, "Local Optima Correlation Assisted Adaptive Operator Selection," in Proceedings of the Genetic and Evolutionary Computation Conference (GECCO), ACM, pp. 339-347, 2023. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583131.3590399)
 
-Check more about the [Learning and Optimization in Games (LOG) group](https://aingames.cn/).
+* **J. Pei**, Y. Mei , J. Liu, and X. Yao, “An Investigation of Adaptive Operator Selection in Solving Complex Vehicle Routing Problem," in Pacific Rim International Conference on Artificial Intelligence (PRICAI), Springer, pp. 562-573, 2022. [[Paper]](https://doi.org/10.1007/978-3-031-20862-1_41)
 
+* **J. Pei**, C. Hu, J. Liu, Y. Mei and X. Yao, “Bi-Objective Splitting Delivery VRP with Loading Constraints and Restricted Access,” in IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, pp. 01-09, 2021. [[Paper]](https://doi.org/10.1109/SSCI50451.2021.9659967)
+
+
+**More can be found in** [Google Scholar](https://scholar.google.com/citations?user=WyBHVhYAAAAJ)
