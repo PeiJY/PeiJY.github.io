@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiyuan Pei"
+title                    : "Dr"
 title_separator          : "-"
 name                     : &name "Jiyuan Pei"
 description              : &description "Personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "pjy.jpg"
   name             : "Jiyuan Pei"
-  pronouns         : "he/him"  
+  pronouns         : "he/him/his"  
   bio              : "PhD candidate in Computer Science"
   location         : "Wellington, New Zealand"
   employer         : "Victoria University of Wellington"
