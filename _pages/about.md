@@ -22,7 +22,7 @@ I'm currently a PhD candidate in Computer Science, Victoria University of Wellin
 
 * **J. Pei**, Y. Mei, J. Liu, and M. Zhang, "LiBOG: Lifelong Learning for Black-Box Optimizer Generation", accepted at 34th International Joint Conference on Artificial Intelligence (IJCAI) 2025. [[Paper]](https://arxiv.org/abs/2505.13025) [[Code]](https://github.com/PeiJY/LiBOG)
 
-* **J. Pei**, Y. Mei, J. Liu, M. Zhang and X. Yao, "Adaptive Operator Selection for Meta-Heuristics: A Survey", IEEE Transactions on Artificial Intelligence (TAI), 2025. DOI: 10.1109/TAI.2025.3545792. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10904096)
+* **J. Pei**, Y. Mei, J. Liu, M. Zhang and X. Yao, "Adaptive Operator Selection for Meta-Heuristics: A Survey", IEEE Transactions on Artificial Intelligence (TAI), vol. 6, no. 8, pp. 1991-2012, Aug. 2025. DOI: 10.1109/TAI.2025.3545792. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10904096)
 
 * **J. Pei**, Y. Mei, J. Liu "Learning from Offline and Online Experiences: A Hybrid Adaptive Operator Selection Framework," in Proceedings of the Genetic and Evolutionary Computation Conference (GECCO), ACM, pp. 1017-1025, 2024. (The only one Best Paper Award nomination in L4EC track) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3638529.3654062)
 
