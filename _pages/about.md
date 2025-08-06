@@ -10,7 +10,7 @@ redirect_from:
 I'm currently a PhD candidate in Computer Science, Victoria University of Wellington, Wellingtonm, New Zealand. I received my Master degree in Computer Science and Technology in 2023, and Bachelor in Computer Science and Technology in 2020 from Southern University of Science and Technology (SUSTech), Shenzhen, China. 
 
 
-### Research Interests
+## Research Interests
 
 * Adaptive Operator Selection
 * Vehicle Scheduling 
@@ -18,7 +18,7 @@ I'm currently a PhD candidate in Computer Science, Victoria University of Wellin
 * Evolutionary Computation
 * Lifelong Learning
 
-### Publications
+## Publications
 
 * **J. Pei**, Y. Mei, J. Liu, and M. Zhang, "LiBOG: Lifelong Learning for Black-Box Optimizer Generation", accepted at 34th International Joint Conference on Artificial Intelligence (IJCAI) 2025. [[Paper]](https://arxiv.org/abs/2505.13025) [[Code]](https://github.com/PeiJY/LiBOG)
 
