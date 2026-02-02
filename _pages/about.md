@@ -33,9 +33,9 @@ I'm currently a PhD candidate in Data Science and Artificial Intelligence & Scho
 
 * **J. Pei**, H. Tong, J. Liu, Y. Mei, and X. Yao, "Local Optima Correlation Assisted Adaptive Operator Selection," in Proceedings of the Genetic and Evolutionary Computation Conference (GECCO), ACM, pp. 339-347, 2023. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3583131.3590399)
 
-* **J. Pei**, Y. Mei , J. Liu, and X. Yao, “An Investigation of Adaptive Operator Selection in Solving Complex Vehicle Routing Problem," in Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI), Springer, pp. 562-573, 2022. [[Paper]](https://doi.org/10.1007/978-3-031-20862-1_41)
+* **J. Pei**, Y. Mei , J. Liu, and X. Yao, "An Investigation of Adaptive Operator Selection in Solving Complex Vehicle Routing Problem," in Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI), Springer, pp. 562-573, 2022. [[Paper]](https://doi.org/10.1007/978-3-031-20862-1_41)
 
-* **J. Pei**, C. Hu, J. Liu, Y. Mei and X. Yao, “Bi-Objective Splitting Delivery VRP with Loading Constraints and Restricted Access,” in IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, pp. 01-09, 2021. [[Paper]](https://doi.org/10.1109/SSCI50451.2021.9659967)
+* **J. Pei**, C. Hu, J. Liu, Y. Mei and X. Yao, "Bi-Objective Splitting Delivery VRP with Loading Constraints and Restricted Access," in IEEE Symposium Series on Computational Intelligence (SSCI). IEEE, pp. 01-09, 2021. [[Paper]](https://doi.org/10.1109/SSCI50451.2021.9659967)
 
 
 **More can be found in** [Google Scholar](https://scholar.google.com/citations?user=WyBHVhYAAAAJ).
