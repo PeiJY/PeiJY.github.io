@@ -23,7 +23,7 @@ I'm currently a PhD candidate in Data Science and Artificial Intelligence & Scho
 
 * **J. Pei**, Y. Mei, J. Liu, M. Zhang and X. Yao, "Keep Rehearsing and Refining: Lifelong Learning Vehicle Routing under Continually Drifting Tasks", 2026, arXiv preprint arXiv:2601.22509. [[Paper]](https://arxiv.org/abs/2601.22509)
 
-* **J. Pei**, Y. Mei, J. Liu, M. Zhang and X. Yao, "Lifelong Learning with Behavior Consolidation for Vehicle Routing", 2025, arXiv preprint arXiv:2509.21765. [[Paper]](https://arxiv.org/abs/2509.21765) [[Code]](https://github.com/PeiJY/LLR-BC)
+* **J. Pei**, Y. Mei, J. Liu, M. Zhang and X. Yao, "Lifelong Learning with Behavior Consolidation for Vehicle Routing", in Proceedings of The International Conference on Learning Representations (ICLR), 2026. [[Paper]](https://arxiv.org/abs/2509.21765) [[Code]](https://github.com/PeiJY/LLR-BC)
 
 * **J. Pei**, Y. Mei, J. Liu, and M. Zhang, "LiBOG: Lifelong Learning for Black-Box Optimizer Generation", in Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI) 2025. pp. 8912--8920. [[Paper]](https://www.ijcai.org/proceedings/2025/991) [[Code]](https://github.com/PeiJY/LiBOG)
 
